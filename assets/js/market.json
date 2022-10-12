@@ -1,0 +1,27 @@
+[
+    { 
+        "name": "exemple",
+        "location": "cityExemple",
+        "phoneNumber": "0123456789",
+        "mail": "exemple@uwu.fr",
+        "website": "monmagasinexemple.fr",
+        "product": [
+            "product1",
+            "product2",
+            "product3"
+        ]       
+    },
+    {
+        "name": "Pelouse de l'ancre",
+        "location": "Albert",
+        "phoneNumber": "032274677",
+        "mail": "non communiqué",
+        "website": "pelousedelancre.fr",
+        "product": [
+            "TECHline",
+            "husqvarna",
+            "stihl"
+        ]
+    }
+]
+
