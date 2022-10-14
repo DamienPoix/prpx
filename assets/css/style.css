@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    min-height: 100%;
+}
+.container{
+    padding: 1em;
+    border-color: black;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+}
+
+#footer-copyright{
+    border: 1em;
+border-color: black;
+}
+
+.center{
+    text-align: center;
+}
+.fa-regular{
+    margin-right: 0.1em;
+}
