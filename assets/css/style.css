@@ -3,18 +3,26 @@ body{
     min-height: 100%;
 }
 .container{
-    padding: 1em;
+    display: grid;
+    grid-template-columns: repeat(10, 10%);
+    border-style: solid;
     border-color: black;
 }
-
+.row{
+    display: row;
+}
 #footer{
+    width: 100%;
     position: fixed;
     bottom: 0;
 }
 
 #footer-copyright{
-    border: 1em;
-border-color: black;
+    width: inherit;
+    border-style: solid;
+    border-radius: 0.5em;
+    border-color: black;
+
 }
 
 .center{
