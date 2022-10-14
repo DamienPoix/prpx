@@ -1,28 +1,11 @@
 body{
-    background-color: aqua;
-    min-height: 100%;
-}
-.container{
-    display: grid;
-    grid-template-columns: repeat(10, 10%);
-    border-style: solid;
-    border-color: black;
-}
-.row{
-    display: row;
-}
-#footer{
-    width: 100%;
-    position: fixed;
-    bottom: 0;
+
 }
 
-#footer-copyright{
-    width: inherit;
-    border-style: solid;
-    border-radius: 0.5em;
-    border-color: black;
 
+
+.moderno{
+    font-family: 'MuseoModerno', cursive;
 }
 
 .center{
