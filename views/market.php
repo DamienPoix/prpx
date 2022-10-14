@@ -3,16 +3,8 @@
 $file = '../assets/js/market.json';
 //données du json
 $data = json_decode(file_get_contents($file));
+include'header.php';
 ?>
-<!DOCTYPE html>
-<html> 
-  <head>
-    <link rel="icon" type="icon" href="assets/img/prpx.png" />
-    <meta charset="UTF-8">
-    <title>market</title> 
-  </head>
-
-  <body> 
     <h1>Magasin patenaire</h1> 
     <?php for($i=0;$i<=count($data)-1;$i++){ 
         $product = $data[$i]->product;?>
@@ -27,6 +19,8 @@ $data = json_decode(file_get_contents($file));
         <p>Numéro de téléphone : <?php echo($data[$i]->phoneNumber) ?></p>
         <p>Par mail : <?php echo($data[$i]->mail) ?></p>
         <p>site web du partenaire : <?php echo($data[$i]->website) ?></p>
-   <?php }; ?>
-  </body>
-</html>
+   <?php 
+   };
+   include'footer.php';
+    ?>
+
