@@ -1,9 +1,8 @@
 .moderno{
     font-family: 'MuseoModerno', cursive;
 }
-
-.center{
-    text-align: center;
+.lightgreen{
+    background-color: lightgreen;
 }
 .fa-regular{
     margin-right: 0.1em;
