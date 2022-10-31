@@ -25,7 +25,7 @@
                         </div>
                     </div>
                     <div class="row border-top" style="background-color: rgba(0, 0, 0, 0.05)">
-                        <p class="col-12 black mt-3"><i class="fa-regular fa-copyright me-1 cr-footer"></i>POSE ROBOT PX</p>
+                        <p class="col-12 black mt-3 text-success"><i class="fa-regular fa-copyright me-1 cr-footer"></i>POSE ROBOT PX</p>
                     </div>
                 </div>
             </footer>
