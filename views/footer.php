@@ -1,4 +1,4 @@
-            <footer class="text-center mt-5">
+            <footer class="text-center mt-5 fixed-bottom">
                 <div class="container-fluid text-center border bg-light">
                     <div class="row mt-3">
                         <div class="col-3">

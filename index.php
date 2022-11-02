@@ -3,7 +3,7 @@ include 'classes/path.php';
 include_once path::getViewsPath().'header.php';
 ?>
     
-    <h1 class="navbar-brand row moderno">POSE ROBOT PX</h1> 
+    <h1 class="moderno title text-success text-center">POSE ROBOT PX</h1> 
     <div class="container mt-5 moderno">
          <div class="card mt-2 mb-2 bg-light">
             <div class="row ">

@@ -7,6 +7,6 @@
 .fa-regular{
     margin-right: 0.1em;
 }
-.test{
-max-width: 15%;
+.title{
+    text-decoration: underline;
 }
