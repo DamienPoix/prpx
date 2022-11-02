@@ -14,6 +14,6 @@
   </head>
   <body>
     <div class="container-fluid">
-       <nav class="navbar">
-       <a href="index.php" class="navbar-brand moderno">PRPX</a>
+    <nav class="navbar">
+       <a href="/www/prpx/index.php" class=" moderno">PRPX</a>
        </nav>
