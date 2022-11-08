@@ -10,3 +10,7 @@
 .title{
     text-decoration: underline;
 }
+.noStyle{
+    color: rgba(0, 0, 0, 0.849);
+    text-decoration: none;
+}

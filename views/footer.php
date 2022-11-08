@@ -1,4 +1,5 @@
-            <footer class="text-center mt-5 fixed-bottom">
+</div>
+            <footer class="text-center relative-bottom ">
                 <div class="container-fluid text-center border bg-light">
                     <div class="row mt-3">
                         <div class="col-3">
@@ -29,6 +30,6 @@
                     </div>
                 </div>
             </footer>
-        </div>
+            <script src="../assets/js/script.js"></script>
     </body>
 </html>
