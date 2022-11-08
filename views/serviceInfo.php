@@ -71,7 +71,7 @@ include_once 'header.php';
    <p>
     Nous nous occupons également des pannes lié aux robots de la pannes anodines jusqu'aux problèmes de carte mére ou de batterie, on s'occupe églament de l'hivernage de vos robots 
     et nous proposons un services de nettoyage pousser.
-    </br> <i class="fa-solid fa-lightbulb alert text-success"></i> plus d'infos sur la page lié a <a href="hivernageInfo.php" class="noStyle" onmouseover="mouseOverColor(this)" onmouseout="mouseOutColor(this)">l'hivernage et la maintenance</a>
+    </br> <i class="fa-solid fa-lightbulb alert text-success"></i> plus d'infos sur la page lié a <a href="hivernageInfo.php" id="noStyle" >l'hivernage et la maintenance</a>
    </p>
    <h3 class="title">Modification et coupure du fil périmétrique</h3>
    <p>
