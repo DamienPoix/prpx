@@ -30,7 +30,7 @@ include_once path::getViewsPath().'header.php';
                     <h3 class="card-title text-success">Hivernage et maintenance</h3>
                     <p class="card-text">
                         Pour l'hivernage nous proposons plusieurs formules que vous pourrez retrouver dans les informations supplémentaires.
-                        </br>Nous possédons également une machine à froid pulser qui nous permet de nettoyer le robot sans danger et en profondeur pour avoir un effet neuf.
+                        </br>Nous possédons également une machine de nettoyage cryogénique qui nous permet de nettoyer le robot sans danger et en profondeur pour avoir un effet neuf.
                     </p>
                     <a href="views/hivernageInfo.php" class="btn btn-lg btn-success card-text"><small class="lightgreen">plus d'infos ici</small></a>
                 </div>
