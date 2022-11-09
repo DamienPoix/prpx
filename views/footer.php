@@ -25,11 +25,11 @@
                             <p><i class="fa-brands fa-facebook-f me-3"></i><a href="https://www.facebook.com/PoseRobotPX" class="text-reset">PoseRobotPX</a></p>
                         </div>
                     </div>
-                    <div class="row border-top" style="background-color: rgba(0, 0, 0, 0.05)">
+                    <div class="row border-top moreDarker">
                         <p class="col-12 black mt-3 text-success"><i class="fa-regular fa-copyright me-1 cr-footer"></i>POSE ROBOT PX</p>
                     </div>
                 </div>
             </footer>
-            <script src="../assets/js/script.js"></script>
+            <script src="/www/prpx/assets/js/script.js"></script>
     </body>
 </html>

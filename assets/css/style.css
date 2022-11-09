@@ -10,8 +10,11 @@
 .title{
     text-decoration: underline;
 }
-#noStyle{
+#noStyle, .noStyle{
     font-weight: bold;
     color: rgba(0, 0, 0, 0.849);
     text-decoration: none;
+}
+.moreDarker{
+    background-color: rgba(0, 0, 0, 0.05);
 }

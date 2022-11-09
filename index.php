@@ -32,7 +32,7 @@ include_once path::getViewsPath().'header.php';
                         Pour l'hivernage nous proposons plusieurs formules que vous pourrez retrouver dans les informations supplémentaires.
                         </br>Nous possédons également une machine à froid pulser qui nous permet de nettoyer le robot sans danger et en profondeur pour avoir un effet neuf.
                     </p>
-                    <a href="#" class="btn btn-lg btn-success card-text"><small class="lightgreen">plus d'infos ici</small></a>
+                    <a href="views/hivernageInfo.php" class="btn btn-lg btn-success card-text"><small class="lightgreen">plus d'infos ici</small></a>
                 </div>
             </div>
         </div>
