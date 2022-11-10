@@ -83,6 +83,7 @@ include_once 'header.php';
             </tr>
         </tbody>
     </table>
+    <p class="text-center title"><i class="fa-solid fa-circle-exclamation alert text-warning "></i>Certaine panne ou pièces peuvent entrainer un sourcout.</p>
     <h3 class="title" id="premium">Le nettoyage premium.</h3>
     <p>Chez <strong>Pose Robot PX</strong> nous proposons un service de nettoyage premium pour ce dernier nous utilisons un nettoyeur cryogéniques qui nous permet de nettoyer 
     vos robots en profondeur et sans risque pour les composants électronique</p>
