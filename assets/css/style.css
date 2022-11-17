@@ -1,8 +1,20 @@
+/*
+====================[tempo]====================
+*/
+.bo{
+background-color: rgba(0, 1, 53, 0.644);
+}
+  /*
+====================[divers]====================
+*/
 .moderno{
     font-family: 'MuseoModerno', cursive;
 }
 .lightgreen{
     color: lightgreen;
+}
+.bg-lightgreen{
+    background-color: rgba(144, 238, 144, 0.226)!important;
 }
 .fa-regular{
     margin-right: 0.1em;
@@ -17,4 +29,13 @@
 }
 .moreDarker{
     background-color: rgba(0, 0, 0, 0.05);
+}
+.trycenter{
+    align-items: center;
+}
+.borderer{
+    border: 7px solid #1C6431;
+}
+.noBorder{
+ border: none!important;
 }
