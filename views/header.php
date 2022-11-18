@@ -17,5 +17,4 @@
 </head>
 
 <body>
-  <img src="/www/prpx/assets/img/bn_prpx.png" alt="banniere" width="100%" height="450">
-  <div class="container-fluid ">
+  

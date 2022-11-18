@@ -2,6 +2,8 @@
 include 'classes/path.php';
 include_once path::getViewsPath() . 'header.php';
 ?>
+<img src="/www/prpx/assets/img/bn_prpx.png" alt="banniere" width="100%" height="450">
+  <div class="container-fluid ">
 <nav arial-label="breadcrumb bt-2">
     <ol class="breadcrumb lightgreen">
         <li class="breadcrumb-item active" aria-current="page">Acceuil</li>

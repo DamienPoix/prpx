@@ -9,5 +9,4 @@ if (doc != null) {
     function mouseOutColor(){
         doc.style.color = "rgba(0, 0, 0, 0.849)";
     };
-}
-    
+};

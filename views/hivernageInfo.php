@@ -2,6 +2,8 @@
 include '../classes/path.php';
 include_once 'header.php';
 ?>
+<img src="/www/prpx/assets/img/bn_prpx.png" alt="banniere" width="100%" height="450">
+  <div class="container-fluid ">
 <nav arial-label="breadcrumb bt-2">
     <ol class="breadcrumb lightgreen">
         <li class="breadcrumb-item"><a href="../index.php">Acceuil</a></li>
@@ -10,9 +12,9 @@ include_once 'header.php';
 </nav>
 <div class="moderno">
     <h2 class="text-success text-center title">Hivernage et maintenance</h2>
-    <h3>Nos différentes formules</h3>
+    <h3 class="">Nos différentes formules<span class="badge mx-2 moreDarker text-warning">2022</span></h3>
     <div class="container table-responsive-sm">
-        <table class="table table-bordered text-center border-success">
+        <table class="table table-bordered text-center bg-lightgreen border-success">
             <thead class="moreDarker">
                 <tr>
                     <th scope="col">Service inclus</th>
